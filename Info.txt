@@ -1,0 +1,3 @@
+Admin pristup
+User: Admin
+password: 123
